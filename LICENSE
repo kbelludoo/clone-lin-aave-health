@@ -1,0 +1,11 @@
+SPDX-License-Identifier: MIT
+
+This repository contains an experimental i64-scale LIN clone of Aave V3
+percentMul / wadDiv / health factor and an original C11 oracle.
+
+Upstream aave-v3-core (aave/aave-v3-core v1.19.4) was licensed BUSL-1.1 with
+Change Date 27 January 2023; the Change License is MIT.
+See https://github.com/aave/aave-v3-core and
+https://opensource.org/licenses/MIT
+
+Proofs live in https://github.com/kbelludoo/lin-open
